@@ -51,3 +51,7 @@ p + p {
 ul {
   list-style-type: none;
 }
+
+.asset-name {
+  margin-right: 25px;
+}
